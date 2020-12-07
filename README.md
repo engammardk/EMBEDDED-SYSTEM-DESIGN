@@ -1,8 +1,8 @@
 # EMBEDDED-SYSTEM-DESIGN
 Weekly exercises using Arduino Mega 2560 
 
-                 Week4: 3 Examples of GPIO. 
-                 quick access to videos: 
+                Week4: 3 Examples of GPIO. 
+                quick access to videos: 
                    
                     example1: https://www.youtube.com/watch?v=wSfVD6C85KY&feature=youtu.be 
                     example2: https://www.youtube.com/watch?v=LX3HIQNREaM&feature=youtu.be
