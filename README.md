@@ -24,4 +24,8 @@ Weekly exercises using Arduino Mega 2560
                     example1: https://drive.google.com/file/d/1-9sZA3i9FhaEsiAYZi50p4wUD_MUjPqi/view?usp=sharing 
                     example2: https://drive.google.com/file/d/1T9CRfcAWvpMQ3sEP10RhZXReHhQNy5N_/view?usp=sharing
                     
-   
+                Week7: 2 Examples of interrupts , the first example using a pushbutton to turn on a LED, while the second                        using timer interrupt as delay for LED.
+                quick access to videos:
+                
+                    example1: https://drive.google.com/file/d/176B3idtVCCKSk2HR3NQHAYOK48SgrxSi/view?usp=sharing 
+                    example2: https://drive.google.com/file/d/1ObVG6hOgpAHNmMTztjMqy_VRLSnmBXEw/view?usp=sharing
