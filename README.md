@@ -30,3 +30,12 @@ Weekly exercises using Arduino Mega 2560
                 
                     example1: https://drive.google.com/file/d/176B3idtVCCKSk2HR3NQHAYOK48SgrxSi/view?usp=sharing 
                     example2: https://drive.google.com/file/d/1ObVG6hOgpAHNmMTztjMqy_VRLSnmBXEw/view?usp=sharing
+                    
+                Week8: 1 Example on how to write and read to EEPROM memory.
+                quick access to video:
+                    
+                    example1: https://drive.google.com/file/d/1MVTkaXcw-CIdQTySy_MyFcBud22Ck5Tc/view?usp=sharing
+                    
+                    
+                Week9: 2 Examples code on how to conserve power using software-based technique.
+                
