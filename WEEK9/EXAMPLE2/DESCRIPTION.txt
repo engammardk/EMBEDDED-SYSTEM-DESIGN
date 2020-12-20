@@ -1,0 +1,5 @@
+:Simple code on how we can conserve power using software-based technique by
+*
+Sleeping
+**
+Turning off brown-out detector

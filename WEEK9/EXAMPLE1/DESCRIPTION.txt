@@ -1,0 +1,7 @@
+:Simple code on how we can conserve power using software-based technique by
+*
+Setting all pins as output
+**
+Turning off analog pins
+***
+Turning analog comparator off
