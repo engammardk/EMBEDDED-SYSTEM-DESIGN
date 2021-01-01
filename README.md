@@ -44,3 +44,15 @@ Weekly exercises using Arduino Mega 2560
                     
                 Week9: two Examples code on how to conserve power using software-based technique.
                 
+                
+                
+                Week10: two Examples on controling motor. The first example how to control the direction of DC motor while the second example on how to
+                control the speed of servo motor.
+                quick access to videos:
+                
+                    example1: https://drive.google.com/file/d/1mefRV2Gg1JGJYvgTYa_hU-QEWF0gNT84/view?usp=sharing
+                    example2: https://drive.google.com/file/d/1nQHfu9m_uh5QF-TdjxvdsIAI_1jUFgiR/view?usp=sharing
+                    
+                    
+                Week11: On Progress.
+                
