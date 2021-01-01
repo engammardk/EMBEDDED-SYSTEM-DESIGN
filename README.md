@@ -27,7 +27,8 @@ Weekly exercises using Arduino Mega 2560
                     
        
        
-                Week7: two Examples of interrupts , the first example using a pushbutton to turn on a LED, while the second using timer interrupt as delay for LED.
+                Week7: two Examples of interrupts , the first example using a pushbutton to turn on a LED, while
+                the second using timer interrupt as delay for LED.
                 quick access to videos:
                 
                     example1: https://drive.google.com/file/d/176B3idtVCCKSk2HR3NQHAYOK48SgrxSi/view?usp=sharing 
@@ -46,8 +47,8 @@ Weekly exercises using Arduino Mega 2560
                 
                 
                 
-                Week10: two Examples on controling motor. The first example how to control the direction of DC motor while the second example on how to
-                control the speed of servo motor.
+                Week10: two Examples on controling motor. The first example how to control the direction of DC motor while
+                the second example on how to control the speed of servo motor.
                 quick access to videos:
                 
                     example1: https://drive.google.com/file/d/1mefRV2Gg1JGJYvgTYa_hU-QEWF0gNT84/view?usp=sharing
