@@ -59,7 +59,7 @@ Weekly exercises using Arduino Mega 2560
                 quick access to videos:
                     
                     Synchornous Transimission Example: https://drive.google.com/file/d/1YT4uvZu9uFabkT-ayKUxDO4RFwxbED7B/view?usp=sharing
-                    Asynchoronous Transmission Example:
+                    Asynchoronous Transmission Example: https://drive.google.com/file/d/1lUsqgE5pr2lL3mTWrXcLPbcxUhkWhqT6/view?usp=sharing
                     
                     
                     
