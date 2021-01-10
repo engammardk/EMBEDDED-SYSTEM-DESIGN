@@ -63,4 +63,7 @@ Weekly exercises using Arduino Mega 2560
                     
                     
                     
-                                
+                Week12: One Example on serial communication for two arduino board using I2C protocol
+                quick access to vide:
+                
+                       I2C: https://drive.google.com/file/d/11oxMH5_1s1RISEo-O0EyOn8g2ghZ1JJd/view?usp=sharing
