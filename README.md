@@ -55,5 +55,8 @@ Weekly exercises using Arduino Mega 2560
                     example2: https://drive.google.com/file/d/1nQHfu9m_uh5QF-TdjxvdsIAI_1jUFgiR/view?usp=sharing
                     
                     
-                Week11: On Progress.
+                Week11: Two Examples for synchronous and asynchronous transmission between two arduino uno board.
+                quick access to videos:
+                    
+                    Synchornous Transimission Example: https://drive.google.com/file/d/1YT4uvZu9uFabkT-ayKUxDO4RFwxbED7B/view?usp=sharing
                 
